@@ -1,8 +1,3 @@
 # elijah-website
  
-run 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+run ``` $ npm run build-css ```
