@@ -1,5 +1,16 @@
 {
-  "devDependencies": {
+  "name": "elijah-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i ./src/input.css -o ./dist/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
     "tailwindcss": "^3.0.24"
+
   }
 }
