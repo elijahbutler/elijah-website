@@ -2,4 +2,4 @@
  
 run ``` $ npm run build-css ```
 
-dev test
+production test
